@@ -1,2 +1,2 @@
 ### Hi there 👋
-Estudiante de Ing Sistemas y nada mas
+Estudiante de Ing Sistemas , tambien construyo cosas de electronica con arduino.
