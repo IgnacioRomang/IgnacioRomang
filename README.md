@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm IgnacioRomang</h1>
-<h3 align="center">un apasionado estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional. Con habilidades en programación en Java y Python, así como experiencia en bases de datos relacionales y no relacionales, disfruto construyendo proyectos que sean útiles y ayuden a las personas. Además de mi formación académica, también me dedico a la robótica, donde aplico mis conocimientos de programación como pasatiempo. En mi tiempo libre, siempre estoy buscando nuevas formas de mejorar mis habilidades y expandir mis conocimientos en el mundo de la tecnología.</h3>
+<h3 align="center">An enthusiastic student of Information Systems Engineering at the National Technological University. Skilled in Java and Python programming, as well as experienced in both relational and non-relational databases, I enjoy building projects that are useful and helpful to people. In addition to my academic background, I am also dedicated to robotics, where I apply my programming knowledge as a hobby. In my free time, I am always looking for new ways to improve my skills and expand my knowledge in the world of technology.</h3>
+
+- 🔭 I’m currently working on [AE-Front-End](https://github.com/IgnacioRomang/AE-Front-End)
+
+- 🤖 I'm also working on [AE-Back-end](https://github.com/IgnacioRomang/AE-Back-end)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
