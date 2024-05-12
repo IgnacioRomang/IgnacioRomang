@@ -1,5 +1,6 @@
 # 💫 About Me:
 An enthusiastic student of Information Systems Engineering at the National Technological University. Skilled in Java and Python programming, as well as experienced in both relational and non-relational databases, I enjoy building projects that are useful and helpful to people. In addition to my academic background, I am also dedicated to robotics, where I apply my programming knowledge as a hobby. In my free time, I am always looking for new ways to improve my skills and expand my knowledge in the world of technology.<br>🔭 I’m currently working on [AE-Front-End](https://github.com/IgnacioRomang/AE-Front-End)<br>🤖 I'm also working on [AE-Back-end](https://github.com/IgnacioRomang/AE-Back-end)
+
 <a href="http://keyhero.com/profile/ygg/?ba" title="ygg's typing test profile"><img src="https://www.keyhero.com/static//badges/1244/typing-test-373469.png" alt="ygg's typing test WPM" style="vertical-align:middle"></a>
 
 ## 🌐 Socials:
